@@ -1,0 +1,27 @@
+.receta__imagen{
+  height:180px ;
+}
+.receta__imagen--aguacate{
+  background:url(../../img/recetas/bowl-de-aguacate.jpg) no-repeat center /cover;
+  height:11.2rem;
+}
+.receta__imagen--kiwi{
+  background:url(../../img/recetas/ensalada-de-kiwi.jpg) no-repeat center /cover;
+  height:11.2rem;
+}
+.receta__imagen--vegetales{
+  background:url(../../img/recetas/mix-de-vegetales.jpg) no-repeat center /cover;
+  height:11.2rem;
+}
+.receta__imagen--pimentonesALaJuliana{
+  background:url(../../img/recetas/pimentones-a-la-juliana.jpg) no-repeat center /cover;
+  height:11.2rem;
+}
+.receta__imagen--platanoOriental{
+  background:url(../../img/recetas/plato-oriental.jpg) no-repeat center /cover;
+  height:11.2rem;
+}
+.receta__imagen--remolachaHorneadas{
+  background:url(../../img/recetas/remolachas-horneadas.jpg) no-repeat center /cover;
+  height:11.2rem;
+}
